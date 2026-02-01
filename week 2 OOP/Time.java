@@ -1,5 +1,3 @@
-package Week2;
-
 public class Time {
 	
 	private int hour;
