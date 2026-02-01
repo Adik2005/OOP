@@ -1,5 +1,3 @@
-package Week2;
-
 public class Student {
 	
 	private String studentName;
